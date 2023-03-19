@@ -1,0 +1,12 @@
+prettytable
+tqdm
+pyyaml
+pulp
+pandas
+json_tricks
+schema
+tensorboard
+thop
+colorama
+flask
+psutil
